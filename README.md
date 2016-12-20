@@ -46,7 +46,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
     - [**AppVeyor**](#appveyor)
     - [**CircleCI**](#circleci)
     - [**Codeship**](#codeship)
-    - [**ContinuousPHP**](#continuousphp)
     - [**GitLab CI**](#gitlab-ci)
     - [**Semaphore**](#semaphore)
     - [**Shippable**](#shippable)
@@ -112,11 +111,11 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: Unlimited sites, custom domain and SSL
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
 
-### **surge**
+### **Surge**
 
 [Pricing page](http://surge.sh/pricing)
 
-* *Free tier*: unlimited deployments, custom domain and basic SSL
+* *Free tier*: unlimited deployments, custom domain and SSL on .surge.sh domains
 * *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
 
@@ -271,7 +270,7 @@ Please also have a look to the [List of excluded services](https://github.com/25
 [Pricing page](https://www.appveyor.com/pricing/)
 
 * *Free tier*: unlimited projects for open source, 1 concurrent build
-* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, Bitbucket, GitLab...), deploys to Azure, Amazon and other hosting providers
+* *Pros*: build support for .NET, Xamarin, Node.js and Ruby, integrates with 10 different code hosting providers (GitHub, BitBucket, GitLab...), deploys to Azure, Amazon and other hosting providers
 
 ### **CircleCI**
 
@@ -287,14 +286,6 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: 5 projects, 1 concurrent build, 1 parallel test pipeline, 100 builds/month
 * *Pros*: easy to set up, supports many hosting providers (AWS, Heroku...)
 * *Limitations*: no Docker support in free tier
-
-### **ContinuousPHP**
-
-[Pricing page](https://continuousphp.com/plans)
-
-* *Free tier*: unlimited projects for open source projects
-* *Pros*: supports many hosting providers (AWS, Zend Server...) and several Git Repository Hosting Services (GitHub, Bitbucket, GitLab)
-* *Limitations*: dedicated to PHP
 
 ### **GitLab CI**
 
