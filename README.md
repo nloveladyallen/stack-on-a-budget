@@ -112,11 +112,11 @@ Please also have a look to the [List of excluded services](https://github.com/25
 * *Free tier*: Unlimited sites, custom domain and SSL
 * *Pros*: offers continuous deployment, custom redirect rules, git repositories integration, webhooks and notifications (for integration with third parties services)
 
-### **surge**
+### **Surge**
 
 [Pricing page](http://surge.sh/pricing)
 
-* *Free tier*: unlimited deployments, custom domain and basic SSL
+* *Free tier*: unlimited deployments, custom domain and SSL on .surge.sh domains
 * *Pros*: deploy from CLI, custom 404 pages
 * *Limitations*: no custom redirects or http->https redirection in free tier
 
@@ -403,8 +403,8 @@ Please also have a look to the [List of excluded services](https://github.com/25
 
 [Pricing page](http://www.mailgun.com/pricing)
 
-* *Free tier*: 10000 emails/month (can apparently be raised up to 30000 emails/month permanently by signing up through [this page](http://www.mailgun.com/google))
-* *Pros*: great API, scheduling, SMTP or REST, logs and analytics, 
+* *Free tier*: 10000 emails/month
+* *Pros*: great API, scheduling, SMTP or REST, logs and analytics
 
 ## Mobile analytics
 
